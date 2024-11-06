@@ -31,40 +31,73 @@ The dataset includes various tables capturing data related to cities, dates, pla
 🛠️ **Tools Used**
 
 Power BI 🖥️
+
 Data Transformation 🔧
+
 KPI Cards 🏆
+
 Interactive Charts 📊
+
 Bookmarks & Slicers 🔖🎛️
+
 Custom Measures 📏
 
 📈 **Key Measures**
 
 Total Revenue 💰
+
 Average Revenue (ARPU) 📉
+
 Total Active Users 👥
+
 Total Unsubscribed Users 🚫
+
 Market Share % 📊
+
 Revenue Before & After 5G 🔄
+
 ARPU Before & After 5G 🔄
+
 Active Users Before & After 5G 🔄
+
+**Data Model**
+
+![image](https://github.com/user-attachments/assets/50c5284a-f59e-46ce-bbf5-8048e0a9f8ad)
+
 
 💡 **Key Insights**
 
 🔻 **Revenue Decline Post-5G**: A noticeable loss in average revenue after 5G. Pricing strategies may need review. 💸
+
 📉 **Drop in Active Users**: Monthly active users have decreased post-5G, indicating a need for re-engagement campaigns. 📅
+
 💔 **Lost Revenue**: A significant revenue drop after 5G suggests users aren’t finding enough value in new plans.
+
 💰 **Total Plan Revenue**: ₹1.95K total plan revenue. Potential for growth if customer preferences align better with the offerings.
+
 🏆 **Market Share Leaders**: PIO leads, followed by Britel, AtliQo, Dadafone, and others. AtliQo’s growth potential lies in closing the gap.
+
 📍 **Delhi Dominates**: Delhi holds 26.36% of market value—strategies for other cities could help balance the playing field.
+
 📊 **Lucknow & Gurgaon**: These cities show a significant revenue increase post-5G, indicating a successful strategy in these regions.
+
 🚫 **Ahmedabad, Delhi, & Raipur**: Declining monthly active users in these cities, suggesting a need for localized improvements.
+
 🚷 **High Unsubscribed Users**: Mumbai, Delhi, and Kolkata report the highest unsubscribed user rates—identify root causes for churn.
+
 💸 **Mumbai & Delhi Lead in Plan Revenue**: Mumbai and Delhi generate the highest revenue, indicating prime areas for future growth.
 
 
 🔧 **Actionable Recommendations**
 
 💡 **Re-assess Pricing Models**: Introduce flexible pricing or value-added services to boost user retention and attract new users.
+
 🔍 **User Re-engagement**: Focus on cities with declining users (Ahmedabad, Delhi, Raipur) through targeted marketing and offers.
+
 📊 **Market Expansion**: Investigate strategies to increase AtliQo’s market share in underperforming regions.
+
 💬 **Unsubscribe Feedback**: Engage unsubscribed users to identify pain points and address them with new plan offerings.
+
+**Dashboard**
+
+https://app.powerbi.com/view?r=eyJrIjoiYzRjMDljNDItMTA5My00ZGQ4LWEwODktNjJjOTYxMzM2NmU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
