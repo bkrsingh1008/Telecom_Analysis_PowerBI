@@ -1,10 +1,12 @@
 # Telecom_Analysis_PowerBI
 
 🔍 **Overview**
+----------------------
 
 AtliQo, one of India’s leading telecom providers, rolled out its 5G plans in May 2022. But since the launch, there’s been a decline in active users and revenue growth. The business director requested an in-depth comparison of KPIs before and after the 5G launch to help recover user rates and optimize internet plans. 💡
 
 🎯 **Project Goals**
+------------------------
 
 📑 **Create an Advanced Report**: Reimagine the business user’s mock-up into a clear, insightful, and professional dashboard for top-level management.
 
@@ -13,6 +15,7 @@ AtliQo, one of India’s leading telecom providers, rolled out its 5G plans in M
 🔍 **Unlock Hidden Insights**: Beyond the provided metrics, explore new insights that could help understand and solve the decline in active users and revenue.
 
 📊 **Dataset Provided**
+--------------------------
 
 The dataset includes various tables capturing data related to cities, dates, plans, revenue, active users, and market share, providing the foundational data required for in-depth analysis and comparison before and after the 5G rollout.
 
@@ -29,6 +32,7 @@ The dataset includes various tables capturing data related to cities, dates, pla
 9. fact_plan_revenue: date, city_code, plans, plan_revenue_crores
 
 🛠️ **Tools Used**
+----------------------
 
 Power BI 🖥️
 
@@ -42,7 +46,9 @@ Bookmarks & Slicers 🔖🎛️
 
 Custom Measures 📏
 
+
 📈 **Key Measures**
+--------------------------
 
 Total Revenue 💰
 
@@ -61,11 +67,13 @@ ARPU Before & After 5G 🔄
 Active Users Before & After 5G 🔄
 
 **Data Model**
+------------------
 
 ![image](https://github.com/user-attachments/assets/50c5284a-f59e-46ce-bbf5-8048e0a9f8ad)
 
 
 💡 **Key Insights**
+---------------------------
 
 🔻 **Revenue Decline Post-5G**: A noticeable loss in average revenue after 5G. Pricing strategies may need review. 💸
 
@@ -89,6 +97,7 @@ Active Users Before & After 5G 🔄
 
 
 🔧 **Actionable Recommendations**
+--------------------------------------
 
 💡 **Re-assess Pricing Models**: Introduce flexible pricing or value-added services to boost user retention and attract new users.
 
@@ -98,6 +107,7 @@ Active Users Before & After 5G 🔄
 
 💬 **Unsubscribe Feedback**: Engage unsubscribed users to identify pain points and address them with new plan offerings.
 
-**Dashboard**
+** Dashboard**
 
-https://app.powerbi.com/view?r=eyJrIjoiYzRjMDljNDItMTA5My00ZGQ4LWEwODktNjJjOTYxMzM2NmU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 Links:  [![Dashboard](https://img.shields.io/badge/dashboard-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiYzRjMDljNDItMTA5My00ZGQ4LWEwODktNjJjOTYxMzM2NmU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+)
